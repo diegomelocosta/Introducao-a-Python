@@ -5,9 +5,7 @@ Um guia simples para inicar nessa linguagem. Podemos considerar o Python com uma
 Nossa trilha de aprendizado aqui, será contemplada com alguns guias e exercíciso dividos nas seguintes secções:
 
 01 - Introdução a Python
-
-  --> 
-  
+   
 02 - Estrutura de dados
 
 03 - Estrutura de decisão e Repetição
