@@ -10,6 +10,6 @@ Nossa trilha de aprendizado aqui, será contemplada com alguns guias e exercíci
 
 03 - Estrutura de decisão e Repetição
 
-04 - 
+04 - Módulos e funções
 
 Exercícios para iniciantes em programação implementados em linguagem Python.  Os exercícios estão divididos e posuem uma ordem de dificuldade crescente. Parte dos exercícios foram retirardos de diversos portais na internet.
